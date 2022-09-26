@@ -7,7 +7,7 @@
             ```
     2. 修改路由配置文件里面的 <font color="#00baff">createWebHistory</font> 方法
         ```js
-            createWebHistory('/vite/'/** 二级文件加名称 **/)
+        createWebHistory('/vite/'/** 二级文件加名称 **/)
         ```
 2. 使用history模式刷新之后404
     * node+express
